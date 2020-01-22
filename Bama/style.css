@@ -1,0 +1,44 @@
+body {
+background-image: url("./images/MJ.png");
+background-color: maroon;
+background-position: center;/*center the image */
+background-size: cover;
+background-repeat: no-repeat;
+text-align: center;
+
+}
+h1{
+    color:maroon;
+    
+}
+.gladiator{
+    margin-left: 40%;
+    image-orientation: 10% 20% 10%;}
+
+.dates{
+margin: 10%;
+
+    }  
+table{
+    margin: 25px;
+    margin-right: 70px;
+   /* padding: 10px; */
+    color:rgb(177, 107, 107);
+    border:10px 10px;
+    text-align:right;
+   font-size: small;
+   font-weight: 800;
+   /* background-color: gray; 
+   background-size: 5px; */
+   background-image: url(./images/trophy.png);
+    background-repeat: no-repeat;
+    image-orientation:5%; 
+    background-position: right;
+    padding-left: 6%; */
+    padding-top: 20%;
+    padding-right: 5%;
+    padding-bottom: 6%; 
+}
+  
+   
+}
